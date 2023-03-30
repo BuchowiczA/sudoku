@@ -1,0 +1,68 @@
+C:\Users\polpo\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.csproj.AssemblyReference.cache
+C:\Users\polpo\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.SudokuForm.resources
+C:\Users\polpo\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.csproj.GenerateResource.cache
+C:\Users\polpo\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polpo\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.AssemblyInfoInputs.cache
+C:\Users\polpo\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.AssemblyInfo.cs
+C:\Users\polpo\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\polpo\Desktop\Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.exe
+C:\Users\polpo\Desktop\Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.deps.json
+C:\Users\polpo\Desktop\Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.runtimeconfig.json
+C:\Users\polpo\Desktop\Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.dll
+C:\Users\polpo\Desktop\Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.pdb
+C:\Users\polpo\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.dll
+C:\Users\polpo\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\refint\Sudoku.dll
+C:\Users\polpo\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.pdb
+C:\Users\polpo\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.genruntimeconfig.cache
+C:\Users\polpo\Desktop\Sudoku\Sudoku\obj\Debug\net6.0-windows\ref\Sudoku.dll
+C:\Users\kacpe\Desktop\Sudoku\bin\Debug\net6.0-windows\Sudoku.exe
+C:\Users\kacpe\Desktop\Sudoku\bin\Debug\net6.0-windows\Sudoku.deps.json
+C:\Users\kacpe\Desktop\Sudoku\bin\Debug\net6.0-windows\Sudoku.runtimeconfig.json
+C:\Users\kacpe\Desktop\Sudoku\bin\Debug\net6.0-windows\Sudoku.dll
+C:\Users\kacpe\Desktop\Sudoku\bin\Debug\net6.0-windows\Sudoku.pdb
+C:\Users\kacpe\Desktop\Sudoku\obj\Debug\net6.0-windows\Sudoku.csproj.AssemblyReference.cache
+C:\Users\kacpe\Desktop\Sudoku\obj\Debug\net6.0-windows\Sudoku.SudokuForm.resources
+C:\Users\kacpe\Desktop\Sudoku\obj\Debug\net6.0-windows\Sudoku.csproj.GenerateResource.cache
+C:\Users\kacpe\Desktop\Sudoku\obj\Debug\net6.0-windows\Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\Desktop\Sudoku\obj\Debug\net6.0-windows\Sudoku.AssemblyInfoInputs.cache
+C:\Users\kacpe\Desktop\Sudoku\obj\Debug\net6.0-windows\Sudoku.AssemblyInfo.cs
+C:\Users\kacpe\Desktop\Sudoku\obj\Debug\net6.0-windows\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\Desktop\Sudoku\obj\Debug\net6.0-windows\Sudoku.dll
+C:\Users\kacpe\Desktop\Sudoku\obj\Debug\net6.0-windows\refint\Sudoku.dll
+C:\Users\kacpe\Desktop\Sudoku\obj\Debug\net6.0-windows\Sudoku.pdb
+C:\Users\kacpe\Desktop\Sudoku\obj\Debug\net6.0-windows\Sudoku.genruntimeconfig.cache
+C:\Users\kacpe\Desktop\Sudoku\obj\Debug\net6.0-windows\ref\Sudoku.dll
+C:\Users\polpo\Desktop\Sudoku\bin\Debug\net6.0-windows\Sudoku.exe
+C:\Users\polpo\Desktop\Sudoku\bin\Debug\net6.0-windows\Sudoku.deps.json
+C:\Users\polpo\Desktop\Sudoku\bin\Debug\net6.0-windows\Sudoku.runtimeconfig.json
+C:\Users\polpo\Desktop\Sudoku\bin\Debug\net6.0-windows\Sudoku.dll
+C:\Users\polpo\Desktop\Sudoku\bin\Debug\net6.0-windows\Sudoku.pdb
+C:\Users\polpo\Desktop\Sudoku\obj\Debug\net6.0-windows\Sudoku.csproj.AssemblyReference.cache
+C:\Users\polpo\Desktop\Sudoku\obj\Debug\net6.0-windows\Sudoku.SudokuForm.resources
+C:\Users\polpo\Desktop\Sudoku\obj\Debug\net6.0-windows\Sudoku.csproj.GenerateResource.cache
+C:\Users\polpo\Desktop\Sudoku\obj\Debug\net6.0-windows\Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polpo\Desktop\Sudoku\obj\Debug\net6.0-windows\Sudoku.AssemblyInfoInputs.cache
+C:\Users\polpo\Desktop\Sudoku\obj\Debug\net6.0-windows\Sudoku.AssemblyInfo.cs
+C:\Users\polpo\Desktop\Sudoku\obj\Debug\net6.0-windows\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\polpo\Desktop\Sudoku\obj\Debug\net6.0-windows\Sudoku.dll
+C:\Users\polpo\Desktop\Sudoku\obj\Debug\net6.0-windows\refint\Sudoku.dll
+C:\Users\polpo\Desktop\Sudoku\obj\Debug\net6.0-windows\Sudoku.pdb
+C:\Users\polpo\Desktop\Sudoku\obj\Debug\net6.0-windows\Sudoku.genruntimeconfig.cache
+C:\Users\polpo\Desktop\Sudoku\obj\Debug\net6.0-windows\ref\Sudoku.dll
+C:\Users\polpo\Desktop\Projekt Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.exe
+C:\Users\polpo\Desktop\Projekt Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.deps.json
+C:\Users\polpo\Desktop\Projekt Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.runtimeconfig.json
+C:\Users\polpo\Desktop\Projekt Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.dll
+C:\Users\polpo\Desktop\Projekt Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.pdb
+C:\Users\polpo\Desktop\Projekt Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.csproj.AssemblyReference.cache
+C:\Users\polpo\Desktop\Projekt Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.SudokuForm.resources
+C:\Users\polpo\Desktop\Projekt Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.csproj.GenerateResource.cache
+C:\Users\polpo\Desktop\Projekt Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polpo\Desktop\Projekt Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.AssemblyInfoInputs.cache
+C:\Users\polpo\Desktop\Projekt Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.AssemblyInfo.cs
+C:\Users\polpo\Desktop\Projekt Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\polpo\Desktop\Projekt Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.dll
+C:\Users\polpo\Desktop\Projekt Sudoku\Sudoku\obj\Debug\net6.0-windows\refint\Sudoku.dll
+C:\Users\polpo\Desktop\Projekt Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.pdb
+C:\Users\polpo\Desktop\Projekt Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.genruntimeconfig.cache
+C:\Users\polpo\Desktop\Projekt Sudoku\Sudoku\obj\Debug\net6.0-windows\ref\Sudoku.dll
